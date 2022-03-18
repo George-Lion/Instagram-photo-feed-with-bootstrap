@@ -3,11 +3,12 @@
 In this exercise we replicate an Instagram visual interface, the main idea is to use as many bootstrap utilities as possible without relying on css properties, some of the tools used are:
 
 * Navbar.
-* Navs & Tabs.
-* Card.
 * Modal.
 * Buttons.
 * Dropdowns.
+* Pills
+* Navs & Tabs.
+* Card.
 
 The main idea is that the website is 100% responsive, a characteristic that bootstrap tools meet. To start we use the Navbar component setting it at the top of the web, then we establish the pills that will help make the jump from one page to another, in the first interface an image viewer made with `<div>` was implemented, for the second interface card was used, modifying some of its properties to give meaning to the shapes of the boxes with image and text, in this way each one will have the same dimensions and to finish we molded the aesthetic part so that in line of color and size have a balance between them.
 
